@@ -38,6 +38,10 @@ A beautiful and responsive chatbot application that provides spiritual guidance 
 3. Start chatting with Sakha!
 4. Get spiritual guidance based on the Bhagavad Gita
 
+## Attribution  
+If you use this project anywhere, you **must** give me credit and mention my name.
+
+
 ## Contributing 🤝
 
 Contributions are welcome! Please feel free to submit a Pull Request.
