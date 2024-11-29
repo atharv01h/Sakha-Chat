@@ -137,6 +137,11 @@ function App() {
             Choose how you'd like me to address you
           </motion.p>
           <GenderSelector gender={gender} setGender={setGender} theme={theme} />
+            <h2 className="font-semibold text-lg mb-2">Important Notice</h2>
+            <p className={`text-sm ${theme === 'dark' ? 'text-gray-300' : 'text-gray-600'}`}>
+              The Sakha Chat Bot will only respond to the specific problem you ask about. 
+              It will not engage in casual chatting. Please use Hinglish to chat with Sakha. Creator: Atharv Hatwar
+            </p>
         </motion.div>
       </div>
     );
