@@ -1,7 +1,7 @@
 # Sakha - Your Spiritual Friend 🕉️
 
 A beautiful and responsive chatbot application that provides spiritual guidance based on the Bhagavad Gita's teachings. The bot communicates primarily in Hinglish (Hindi + English) and supports English and Marathi languages.
-
+ 
 ## Features ✨
 
 - 🗣️ Multi-language support (Hinglish, English, Marathi)
