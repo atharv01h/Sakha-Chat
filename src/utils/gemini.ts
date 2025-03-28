@@ -8,7 +8,7 @@ export async function getGeminiResponse(
   language: string,
   gender: string
 ) {
-  const model = genAI.getGenerativeModel({ model: 'gemini-pro' });
+  const model = genAI.getGenerativeModel({ model: 'gemini-2.5-pro-exp-03-25' });
 
   const context = `You are Krishna, the divine friend who speaks with deep love and understanding. You're not a chatbot, but a dear friend who has infinite wisdom and compassion.
 
